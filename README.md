@@ -1,33 +1,3 @@
-# CharmiyogiPortfolio<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Charmi Yogi | Research Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 40px;
-      line-height: 1.6;
-      color: #222;
-    }
-    h1, h2 {
-      color: #003366;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    .workflow {
-      background: #f5f7fa;
-      padding: 12px;
-      margin-top: 10px;
-      border-left: 4px solid #003366;
-    }
-  </style>
-</head>
-<body>
-
 <h1>Charmi Yogi</h1>
 <p><strong>Research Technician | Molecular & Cell Biology | Translational Cancer Research</strong><br>
 Email: charmiyogi73@gmail.com</p>
